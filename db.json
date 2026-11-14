@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "Student",
+      "email": "student@gmail.com",
+      "password": "student123",
+      "role": "student"
+    },
+    {
+      "name": "muthu",
+      "email": "muthulakshmi5215656@gmail.com",
+      "password": "muthu123",
+      "role": "student",
+      "id": "1eRW5xd"
+    },
+    {
+      "name": "lakshmi",
+      "email": "lakshmi@gmail.com",
+      "password": "0987654321",
+      "role": "student",
+      "id": "RpS-JqK"
+    }
+  ],
+  "questions": [
+    {
+      "question": "ggikioih",
+      "options": [
+        "vf",
+        "fv",
+        "fvg",
+        "fvb"
+      ],
+      "correctAnswer": "fv",
+      "category": "ffgfg",
+      "difficulty": "Easy",
+      "id": 1
+    }
+  ],
+  "results": [
+    {
+      "userId": "1eRW5xd",
+      "userName": "muthu",
+      "quizTitle": "ffgfg",
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "unansweredCount": 0,
+      "percentage": 100,
+      "timeTaken": 600,
+      "completedAt": "2026-11-14T14:15:00.187Z",
+      "id": 1
+    },
+    {
+      "userId": "1eRW5xd",
+      "userName": "muthu",
+      "quizTitle": "ffgfg",
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "unansweredCount": 0,
+      "percentage": 100,
+      "timeTaken": 600,
+      "completedAt": "2026-11-14T14:15:12.184Z",
+      "id": 2
+    }
+  ]
+}
